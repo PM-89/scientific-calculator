@@ -1,0 +1,38 @@
+.history-container{
+  max-width:800px;
+  margin:auto;
+  padding:20px;
+}
+
+.history-container h1{
+  text-align:center;
+  color:white;
+}
+
+.history-card{
+  background:#1e293b;
+  color:white;
+
+  padding:15px;
+  border-radius:12px;
+
+  margin-bottom:12px;
+}
+
+.clear-btn{
+  display:block;
+  margin:auto;
+
+  border:none;
+  padding:12px 20px;
+
+  background:#7c3aed;
+  color:white;
+
+  border-radius:10px;
+}
+
+.empty-history{
+  text-align:center;
+  color:white;
+}

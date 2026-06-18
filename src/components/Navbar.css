@@ -1,0 +1,28 @@
+.navbar{
+  width:90%;
+  max-width:900px;
+  margin:20px auto;
+
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+
+  padding:20px;
+  border-radius:15px;
+
+  background:#1e293b;
+}
+
+.navbar h2{
+  color:white;
+}
+
+.nav-btn{
+  text-decoration:none;
+  color:white;
+
+  background:#7c3aed;
+
+  padding:10px 20px;
+  border-radius:10px;
+}
